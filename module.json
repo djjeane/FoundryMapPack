@@ -1,0 +1,545 @@
+{
+    "name": "map-pack",
+    "title": "TheRiseAndFallOfKings",
+    "description": "TheRiseAndFallOfKings",
+    "author": "hasNoCreek",
+    "authors": [],
+    "url": "",
+    "flags": {},
+    "version": "1.0.1",
+    "minimumCoreVersion": "0.8.4",
+    "compatibleCoreVersion": "0.8.6",
+    "scripts": [],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "packs": [],
+    "system": [],
+    "dependencies": [
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/de25noz4bvgy0yt/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map2",
+            "manifest": "https://www.dropbox.com/s/g190iitjcfa2qxo/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map3",
+            "manifest": "https://www.dropbox.com/s/v92y9y32ehnr2it/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map4",
+            "manifest": "https://www.dropbox.com/s/e4hturv83eynsp1/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map5",
+            "manifest": "https://www.dropbox.com/s/fj9b5mc0thvvc50/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map6",
+            "manifest": "https://www.dropbox.com/s/knapsne2a7m1acs/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map7",
+            "manifest": "https://www.dropbox.com/s/rcmyd3ag31mhu24/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map8",
+            "manifest": "https://www.dropbox.com/s/fsjrom8inwmrsa3/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map9",
+            "manifest": "https://www.dropbox.com/s/byh2r355t28az9e/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map10",
+            "manifest": "https://dl.dropbox.com/s/j8stupytdbvzhc1/module.json"
+        },
+        {
+            "name": "czepeku-map11",
+            "manifest": "https://www.dropbox.com/s/5hyp6bqm8af1pjp/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map12",
+            "manifest": "https://www.dropbox.com/s/tkjv6a3ie1wfv5c/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map13",
+            "manifest": "https://www.dropbox.com/s/wmn7fw8j1zyze7m/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map14",
+            "manifest": "https://www.dropbox.com/s/8fpkd8f3eb48xsq/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map15",
+            "manifest": "https://www.dropbox.com/s/2ikdgua4jd6giwy/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map16",
+            "manifest": "https://www.dropbox.com/s/4auyc47q00c2j1i/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map17",
+            "manifest": "https://dl.dropbox.com/s/vcqlfzew6ljhtp2/module.json"
+        },
+        {
+            "name": "czepeku-map18",
+            "manifest": "https://www.dropbox.com/s/9fpxzxb7cwl7wrb/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map19",
+            "manifest": "https://dl.dropbox.com/s/mlxghy2rve5qhq2/module.json"
+        },
+        {
+            "name": "czepeku-map20",
+            "manifest": "https://dl.dropbox.com/s/tkgcfelv5417q80/module.json"
+        },
+        {
+            "name": "czepeku-map21",
+            "manifest": "https://www.dropbox.com/s/5nebaeado8bgfpc/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map22",
+            "manifest": "https://www.dropbox.com/s/cjj77qh7j0wkiff/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map23",
+            "manifest": "https://www.dropbox.com/s/uv7r333o9yhq1h9/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map24",
+            "manifest": "https://www.dropbox.com/s/emqpko2kzpcy2q1/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map25",
+            "manifest": "https://www.dropbox.com/s/5mmalamcj4dcc6z/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map26",
+            "manifest": "https://www.dropbox.com/s/ffy6xd8woulf4ax/module.json?dl=1{"
+        },
+        {
+            "name": "czepeku-map27",
+            "manifest": "https://dl.dropbox.com/s/vup908xh2ywbt4b/module.json"
+        },
+        {
+            "name": "czepeku-map28",
+            "manifest": "https://dl.dropbox.com/s/mifffzm0za8vuel/module.json"
+        },
+        {
+            "name": "czepeku-map29",
+            "manifest": "https://www.dropbox.com/s/551idkxi9tqfjem/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/71asw95vsykp6e2/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/mquk0ia4k0wz18z/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/ow7emkz29obqobf/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/pkv85w2twy4c8al/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/mx60hapliagni3n/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/5qdxjg5s1fixtec/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/0sisqswa5fz7xf4/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/nsyr1z503gw8u46/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/cemc2i84gwkh5z5/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/jm0mqlee9ew07md/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/vfklxkodau2vbqz/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/r0wzjhpz3szqi99/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/z9vqlq2qdzs1wsj/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/k6oy64tevjp6aye/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/muy0vu0inkghulw/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/72eoorlv3v4r95z/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/doiecytzw01tvno/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/4fdwtovq3i24uq6/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/30qw9ezn198ecaj/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/tljyq3r3ksgte7r/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/0hnjrlbfqtic1y3/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/t83d69jkywkatan/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/y9u8a4wh4tmdl2t/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/7o9zo46f28zf8wj/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/s8obz04ox159c3k/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/996yopuvlxtnie1/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/rsurrjdk55pvxfy/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/ddh3mqgicz7r7k6/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/bn527nhmx785s1g/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/w7de00646ln9uub/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/j8vgzkn8mvtw2cn/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/k2v62889etri1sn/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/xhfa5sw94jjz23g/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/f8k8bcj6lfajwj4/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/6a68ini0z8k9cwn/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/s0s3c6pezy0lb50/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/m33r9l59du2owex/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/6bncj5ugaa94gfg/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/6faebwv6f12pqsk/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/9mdbv6r1mscjaap/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/kpeqv2drae6yvv2/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/3y1g898fuc2cyw3/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/hl3i5k3533374cm/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/4h1yhb7h8pyqh91/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/rauii71r409kyep/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/lhqfy58p9vx13h2/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/p984p9n7xcnmtup/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/acq024polfrx0gt/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/p0othh2hcljy3fq/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/8ijci2e6988aqjg/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/g4diccqscmch8cc/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/2vh5w9z7n85plsc/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/qj9ujrbw6uh0oza/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/y5jbuh2wjr5scyw/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/4zaxcraoqbwvy4b/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/rig6uhltr60sp37/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/xq5exz13g9fsnfa/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/29w6nsa9bzhcnvv/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/q6y3fu1mwclu94r/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/j9mv915y64tfu0g/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/a5fh1zkdd0h6w7z/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/kmgk861atxcuz8o/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/4omtwvvghoa4f22/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/s3ndyxrmonit0s7/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/49ihe2lnyefchbo/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/50laeezfix9umk3/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/sx3hvooqcr0jjqo/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/cig7okh9oul3fr5/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/ko4hxxttmxpqx2e/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/5eydv9g3qz8clbl/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/1k1d2all3xgl6bp/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/dhq0mq7geto74q1/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/v44p95nc3tdyogz/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/vmg8n8gcplciok6/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/25y67j009ud1qo0/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/l5sspcesammr7vl/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/f3v9cn38mzmkuz9/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/0xyyfyp2bpajlot/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/ffs5t60euxswwpy/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/i2tiban60agtmv1/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/vbjls2oqrmggykh/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/0ionx5c4at3tp4e/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/o4k64un9ghdbaty/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/f091jep0ax9knet/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/ai946m0w1vcdbcr/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/a51zzlhz4k3wqje/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/71pzz0aohzqh045/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/5d6xfimbnn6b01l/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/xfqye3398pfne5p/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/t3jerodt5b47tuy/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/48rlti11vzhf38y/module.json?dl="
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/u9ir96k2gb6po7v/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/xvcbo4pavkxpeop/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/brp8fw8uy4s0xag/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://dl.dropbox.com/s/u96v5xxsjd4xtwr/module.json"
+        },
+        {
+            "name": "czepeku-map1",
+            "manifest": "https://www.dropbox.com/s/bf9rj4ipuu581b6/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map2",
+            "manifest": "https://www.dropbox.com/s/xlda0jo2wi6gbae/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map3",
+            "manifest": "https://www.dropbox.com/s/5jxrcib7fb48q2k/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map4",
+            "manifest": "https://www.dropbox.com/s/4e1uqfa8ycpw7y0/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map5",
+            "manifest": "https://www.dropbox.com/s/7femy0dz0v3pa2b/module.json?dl=1"
+        },
+        {
+            "name": "czepeku-map6",
+            "manifest": "https://www.dropbox.com/s/k78uf69551ga231/module.json?dl=1"
+        }
+    ],
+    "socket": true,
+    "manifest": "",
+    "download": "",
+    "protected": false,
+    "coreTranslation": false
+}
