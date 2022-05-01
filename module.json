@@ -538,7 +538,7 @@
         }
     ],
     "socket": true,
-    "manifest": "",
+    "manifest": "https://github.com/djjeane/FoundryMapPack/blob/main/module.json",
     "download": "",
     "protected": false,
     "coreTranslation": false
